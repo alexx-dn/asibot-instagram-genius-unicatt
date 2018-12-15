@@ -1,0 +1,6 @@
+requests==2.20.0
+requests-toolbelt==0.8.0
+six
+tqdm
+huepy
+easygui
